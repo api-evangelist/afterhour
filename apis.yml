@@ -1,8 +1,25 @@
 aid: afterhour
 name: AfterHour
-description: 'AfterHour is a company surfaced as a portfolio company of general-catalyst and added to
-  the API Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'AfterHour is a social copy-trading and investing community for retail
+  investors, founded in 2022 and headquartered in San Francisco. The mobile app lets
+  verified traders connect their real brokerage accounts and share live, proven positions
+  — more than $300M in live trades every day — so members can follow top traders, copy
+  trades, discuss tickers in real-time stock chat rooms, receive alerts, and track
+  their own portfolios. AfterHour is backed by Founders Fund and General Catalyst.
+  This provider was surfaced as a General Catalyst portfolio company; it publishes a
+  consumer app and marketing site but no public developer API at this time.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/65d857072c79296aeb081345/6668a2a24a3b13cf6d05fdff_afterhour.jpeg
 url: https://raw.githubusercontent.com/api-evangelist/afterhour/refs/heads/main/apis.yml
 x-type: company
 x-source: general-catalyst-portfolio
@@ -14,9 +31,36 @@ modified: '2026-07-17'
 tags:
 - Company
 - Consumer
+- Fintech
+- Social Trading
+- Investing
+- Stock Market
+- Community
+- Brokerage
+- Mobile App
 apis: []
+common:
+- type: Website
+  url: https://www.afterhour.com/
+- type: Blog
+  url: https://www.afterhour.com/blog
+- type: TermsOfService
+  url: https://www.afterhour.com/terms
+- type: PrivacyPolicy
+  url: https://www.afterhour.com/privacy
+- type: Support
+  url: https://discord.gg/afterhour-lounge-970246105319239690
+- type: SignUp
+  url: https://apps.apple.com/app/id1640766056
+- type: DomainSecurity
+  url: security/afterhour-domain-security.yml
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
