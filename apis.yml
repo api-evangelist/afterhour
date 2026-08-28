@@ -8,6 +8,17 @@ description: 'AfterHour is a social copy-trading and investing community for ret
   their own portfolios. AfterHour is backed by Founders Fund and General Catalyst.
   This provider was surfaced as a General Catalyst portfolio company; it publishes a
   consumer app and marketing site but no public developer API at this time.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
