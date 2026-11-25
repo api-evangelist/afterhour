@@ -80,7 +80,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Afterhour Domain Security](https://apis.io/security/afterhour/afterhour-domain-security/)
+- [AfterHour Domain Security](https://apis.io/security/afterhour/afterhour-domain-security/)
 
 ## Where to find this API
 
@@ -95,7 +95,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 11.9** — emerging · rubric 0.24.0 · scored 2026-10-17
+**Kin Score 13.6** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
@@ -104,7 +104,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 7.1 |
-| Access clarity | 34.2 |
+| Access clarity | 42.6 |
 
 **Agent readiness 0.0** — human-only
 
@@ -129,6 +129,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Protected Resource Metadata | — |
 | Dynamic Client Registration | — |
 | Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 13.0** — Securities & Market Data
 
